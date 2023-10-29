@@ -419,4 +419,33 @@ height: 40px;
 }
 .footer .container .links {
     display: flex;
+    
+}
+.footer .social-links-list {
+    display: flex;
+    gap: 16px;
+    
+    
+  
+}
+
+.footer .title {
+    margin-bottom: 16px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    display: block;
+    position: absolute;
+    top: -32px;
+    
+        
+}
+.social-media {
+    margin-left: 120px;
+    position: relative;
+    
+
 }
