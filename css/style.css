@@ -296,6 +296,7 @@ background-color: #4D5AE5;
 width: 40px;
 height: 40px;
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 .team-container {
     width: calc((100% - 72px) / 4);
@@ -361,16 +362,13 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     border-radius: 50%;
     gap: 24px;
 }
-.social-links-list .link {
-background-color: #404bbf;
-}
+
 .social-links-list .link:hover,
 .social-links-list .link:focus {
-    background-color: #fff; 
+    background-color: #404bbf; 
 }
-.link:hover .icon {
-    fill: #404BBF;
-}
+
+
 /* our portfolio */
 .section-portfolio {
     padding: 120px 0 120px 0;
