@@ -98,6 +98,7 @@ a {
     letter-spacing: 0.02em;
     padding: 24px 0;
     position: relative;
+    color: #404bbf;
 }
 .navigation-link:hover::after {
     position: absolute;
