@@ -489,16 +489,11 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
     display: inline-block;
     margin-bottom: 16px;
 }
-.footer .container .links {
-    display: flex;
-    
-}
+
 .footer .social-links-list {
     display: flex;
     gap: 16px;
-    
-    
-  
+
 }
 
 .footer .title {
@@ -509,15 +504,16 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
-    display: block;
-    position: absolute;
-    top: -32px;
+    
     
         
 }
 .social-media {
     margin-left: 120px;
-    position: relative;
+    
     
 
+}
+.footer .wrapper {
+    display: flex;
 }
